@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://reman8683.com/gatsby-starter-hoodie/sitemap-index.xml
+Sitemap: https://reman8683.com/blog/sitemap-index.xml
 Host: https://reman8683.com
